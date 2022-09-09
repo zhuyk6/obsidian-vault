@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "post/Pollard Rho.md",
+            "file": "post/Concurrence.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "13dae0603296f0dd",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Pollard Rho.md",
+                "file": "post/Concurrence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/Pollard Rho.md",
+                "file": "post/Concurrence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/Pollard Rho.md"
+                "file": "post/Concurrence.md"
               }
             }
           },
@@ -131,14 +130,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b1c7f7daa7e4be6f",
+  "active": "097a95d7a1189bed",
   "lastOpenFiles": [
+    "post/Pollard Rho.md",
     "post/Jensen's Inequality.md",
     "post/FFT.md",
     "post/DFT.md",
