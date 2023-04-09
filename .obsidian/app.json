@@ -2,10 +2,7 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "pdfExportSettings": {
     "pageSize": "Letter",

@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "de1c9bf018483128",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e53aa0ab1298033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b13e4b1d7b26c05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/Class of Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e3a6963e1ff0592",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ceaf2f192cc2049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097a95d7a1189bed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb291f3f56a42fcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e32582a32f48b1f9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "13dae0603296f0dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dfc4896452c70a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b1cbbf62555d6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "post/Class of Complexity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "49f632e0c20e644a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "post/Class of Complexity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d62e630b809db51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2a19b1a4e3d0d78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "post/Class of Complexity.md"
+              }
+            }
+          },
+          {
+            "id": "c1ba0bc805f27d82",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b13e4b1d7b26c05b",
+  "lastOpenFiles": [
+    "post/Class of Complexity.md",
+    "post/Order Finding.md",
+    "post/Concurrence.md",
+    "post/Jensen's Inequality.md",
+    "post/images/Jensen's inequality.png",
+    "post/Continued Fractions Algorithm.md",
+    "post/Pollard Rho.md",
+    "post/FFT.md",
+    "post/DFT.md",
+    "post/creation and annihilation operator.md",
+    "2022-08-02.md"
+  ]
+}

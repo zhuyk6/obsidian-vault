@@ -1,7 +1,8 @@
 {
-  "baseFontSize": 26,
+  "baseFontSize": 25,
   "theme": "moonstone",
   "translucency": true,
   "interfaceFontFamily": "微软雅黑",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "accentColor": ""
 }
