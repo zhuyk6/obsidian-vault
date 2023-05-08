@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e53aa0ab1298033",
+        "id": "61af89cd505cee82",
         "type": "tabs",
         "children": [
           {
-            "id": "b13e4b1d7b26c05b",
+            "id": "7364bf11c47c06bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Class of Complexity.md",
+                "file": "post/QRAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,13 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "15ef626736cf2d3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "13dae0603296f0dd",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Class of Complexity.md",
+                "file": "post/QRAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/Class of Complexity.md",
+                "file": "post/QRAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/Class of Complexity.md"
+                "file": "post/QRAM.md"
               }
             }
           },
@@ -139,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b13e4b1d7b26c05b",
+  "active": "7364bf11c47c06bf",
   "lastOpenFiles": [
+    "post/images/QRAM.png",
+    "post/QRAM.md",
     "post/Class of Complexity.md",
     "post/Order Finding.md",
     "post/Concurrence.md",
