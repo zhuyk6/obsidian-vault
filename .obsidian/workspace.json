@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e43a24deed935583",
+        "id": "7b118435a9b63ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "a7aa0d18d63fc825",
+            "id": "1b5d663699f074bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "post/Algorithm/割顶和桥.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "割顶和桥"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -66,14 +78,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "13dae0603296f0dd",
@@ -96,7 +110,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -107,7 +123,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -118,7 +136,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -126,15 +146,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
-            "id": "c1ba0bc805f27d82",
+            "id": "021e61f9da115634",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -142,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,11 +175,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7aa0d18d63fc825",
+  "active": "1b5d663699f074bf",
   "lastOpenFiles": [
+    "post/Algorithm/Bi-connected Component.md",
+    "post/Algorithm/割顶和桥.md",
+    "post/Algorithm/bcc_tree_correct.svg",
+    "post/Algorithm/bcc_graph.svg",
+    "post/Algorithm/suffix_array_height.drawio.svg",
+    "post/Algorithm/Suffix Array.md",
+    "post/Algorithm/suffix_array_height.svg",
+    "post/Algorithm/d",
+    "post/Algorithm",
     "post/Choi–Jamiołkowski isomorphism.md",
     "post/Quantum Coherence.md",
     "post/PostgreSQL.md",

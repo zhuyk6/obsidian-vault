@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180pt" height="188pt" viewBox="0.00 0.00 180 188">
+<g id="graph0" class="graph" transform="translate(23.256372861299255,149.34895162965398) scale(0.6573342493893441)" data-name="G">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-184 176,-184 176,4 -4,4"/>
+<!-- 0 -->
+<g id="node1" class="node" pointer-events="visible" data-name="0">
+
+<ellipse fill="none" stroke="black" cx="54" cy="-162" rx="27" ry="18"/>
+<text text-anchor="middle" x="54" y="-157.8" font-family="Times,serif" font-size="14.00">0</text>
+</g>
+<!-- 1 -->
+<g id="node2" class="node" pointer-events="visible" data-name="1">
+
+<ellipse fill="none" stroke="black" cx="35" cy="-90" rx="27" ry="18"/>
+<text text-anchor="middle" x="35" y="-85.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge" data-name="0-&gt;1">
+
+<path fill="none" stroke="black" d="M49.4,-144.05C47.35,-136.49 44.87,-127.37 42.56,-118.85"/>
+<polygon fill="black" stroke="black" points="45.95,-117.98 39.95,-109.25 39.2,-119.82 45.95,-117.98"/>
+</g>
+<!-- 2 -->
+<g id="node3" class="node" pointer-events="visible" data-name="2">
+
+<ellipse fill="none" stroke="black" cx="27" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="27" y="-13.8" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge" data-name="1-&gt;2">
+
+<path fill="none" stroke="black" d="M33.02,-71.7C32.19,-64.41 31.2,-55.73 30.26,-47.54"/>
+<polygon fill="black" stroke="black" points="33.74,-47.15 29.13,-37.61 26.78,-47.94 33.74,-47.15"/>
+</g>
+<!-- 3 -->
+<g id="node4" class="node" pointer-events="visible" data-name="3">
+
+<ellipse fill="none" stroke="black" cx="99" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-13.8" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- 1&#45;&gt;3 -->
+<g id="edge3" class="edge" data-name="1-&gt;3">
+
+<path fill="none" stroke="black" d="M48.57,-74.15C57.06,-64.87 68.17,-52.73 77.8,-42.19"/>
+<polygon fill="black" stroke="black" points="80.26,-44.68 84.43,-34.94 75.09,-39.96 80.26,-44.68"/>
+</g>
+<!-- 3&#45;&gt;0 -->
+<g id="edge4" class="edge" data-name="3-&gt;0">
+
+<path fill="none" stroke="rgb(0, 0, 255)" d="M93.66,-36.07C88.05,-53.99 78.94,-82.99 71,-108 68.38,-116.26 65.5,-125.24 62.88,-133.42" stroke-dasharray="5,2"/>
+<polygon fill="blue" stroke="blue" points="59.57,-132.27 59.85,-142.86 66.24,-134.41 59.57,-132.27"/>
+</g>
+<!-- 4 -->
+<g id="node5" class="node" pointer-events="visible" data-name="4">
+
+<ellipse fill="none" stroke="black" cx="145" cy="-162" rx="27" ry="18"/>
+<text text-anchor="middle" x="145" y="-157.8" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- 5 -->
+<g id="node6" class="node" pointer-events="visible" data-name="5">
+
+<ellipse fill="none" stroke="black" cx="145" cy="-90" rx="27" ry="18"/>
+<text text-anchor="middle" x="145" y="-85.8" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge" data-name="4-&gt;5">
+
+<path fill="none" stroke="black" d="M145,-143.7C145,-136.41 145,-127.73 145,-119.54"/>
+<polygon fill="black" stroke="black" points="148.5,-119.62 145,-109.62 141.5,-119.62 148.5,-119.62"/>
+</g>
+<!-- 5&#45;&gt;3 -->
+<g id="edge6" class="edge" data-name="5-&gt;3">
+
+<path fill="none" stroke="rgb(255, 0, 0)" d="M134.56,-73.12C128.97,-64.61 121.96,-53.94 115.64,-44.32" stroke-dasharray="5,2"/>
+<polygon fill="red" stroke="red" points="118.64,-42.52 110.23,-36.09 112.79,-46.37 118.64,-42.52"/>
+</g>
+</g>
+</svg>

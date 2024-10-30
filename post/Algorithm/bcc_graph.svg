@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150pt" height="160pt" viewBox="0.00 0.00 150 160">
+<g id="graph0" class="graph" transform="translate(4,156) scale(1)" data-name="G">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-156 146,-156 146,4 -4,4"/>
+<!-- 1 -->
+<g id="node1" class="node" pointer-events="visible" data-name="1">
+
+<ellipse fill="none" stroke="black" cx="27.16" cy="-48.17" rx="27" ry="18"/>
+<text text-anchor="middle" x="27.16" y="-43.97" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- 2 -->
+<g id="node2" class="node" pointer-events="visible" data-name="2">
+
+<ellipse fill="none" stroke="black" cx="95.97" cy="-17.5" rx="27" ry="18"/>
+<text text-anchor="middle" x="95.97" y="-13.3" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- 1&#45;&#45;2 -->
+<g id="edge1" class="edge" data-name="1--2">
+
+<path fill="none" stroke="black" d="M50.07,-37.96C57.58,-34.61 65.91,-30.9 73.39,-27.56"/>
+</g>
+<!-- 3 -->
+<g id="node3" class="node" pointer-events="visible" data-name="3">
+
+<ellipse fill="none" stroke="black" cx="96.79" cy="-82.67" rx="27" ry="18"/>
+<text text-anchor="middle" x="96.79" y="-78.47" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- 1&#45;&#45;3 -->
+<g id="edge2" class="edge" data-name="1--3">
+
+<path fill="none" stroke="black" d="M49.19,-59.08C57.32,-63.11 66.52,-67.67 74.66,-71.7"/>
+</g>
+<!-- 2&#45;&#45;3 -->
+<g id="edge3" class="edge" data-name="2--3">
+
+<path fill="none" stroke="black" d="M96.2,-35.65C96.31,-44.69 96.45,-55.59 96.56,-64.61"/>
+</g>
+<!-- 4 -->
+<g id="node4" class="node" pointer-events="visible" data-name="4">
+
+<ellipse fill="none" stroke="black" cx="45.56" cy="-130.17" rx="27" ry="18"/>
+<text text-anchor="middle" x="45.56" y="-125.97" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- 3&#45;&#45;4 -->
+<g id="edge4" class="edge" data-name="3--4">
+
+<path fill="none" stroke="black" d="M80.86,-97.44C74.75,-103.1 67.78,-109.56 61.66,-115.24"/>
+</g>
+<!-- 5 -->
+<g id="node5" class="node" pointer-events="visible" data-name="5">
+
+<ellipse fill="none" stroke="black" cx="114.76" cy="-134.43" rx="27" ry="18"/>
+<text text-anchor="middle" x="114.76" y="-130.23" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- 4&#45;&#45;5 -->
+<g id="edge5" class="edge" data-name="4--5">
+
+<path fill="none" stroke="black" d="M72.91,-131.85C77.75,-132.15 82.78,-132.46 87.61,-132.76"/>
+</g>
+<!-- 5&#45;&#45;3 -->
+<g id="edge6" class="edge" data-name="5--3">
+
+<path fill="none" stroke="black" d="M108.57,-116.61C106.75,-111.35 104.75,-105.59 102.92,-100.34"/>
+</g>
+</g>
+</svg>

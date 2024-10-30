@@ -1,0 +1,8 @@
+digraph G {
+    fa -> x;
+    x -> y;
+    y -> z;
+    z -> x [style=dashed, color=gray];
+    z -> a;
+    a -> fa [style=dashed, color=gray];
+}
