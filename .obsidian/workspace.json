@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "756d31c25c4abf65",
+        "id": "47fb8c5a37acb8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f3e519837dcdc786",
+            "id": "f45268d610228a92",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -62,16 +62,6 @@
               },
               "icon": "lucide-search",
               "title": "搜索"
-            }
-          },
-          {
-            "id": "e32582a32f48b1f9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
             }
           },
           {
@@ -123,7 +113,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "post/Algorithm/割顶和桥.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -149,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "post/Algorithm/割顶和桥.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "割顶和桥 的大纲"
             }
           },
           {
@@ -196,12 +187,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3e519837dcdc786",
+  "active": "f45268d610228a92",
   "lastOpenFiles": [
+    "post/Algorithm/二分图最大匹配.md",
+    "post/Algorithm/割顶和桥.md",
+    "post/Algorithm/bcc_tree.svg",
+    "2025-02-17.md",
+    "post/QRAM.md",
     "post/HHL.md",
     "post/images/Jensen's inequality.png",
     "post/images/HHL_Alg.png",
@@ -210,7 +205,6 @@
     "post/images/QRAM.png",
     "post/Pollard Rho.md",
     "post/PostgreSQL.md",
-    "post/Algorithm/割顶和桥.md",
     "post/Algorithm/Bi-connected Component.md",
     "post/Algorithm/bcc_tree_correct.svg",
     "post/Algorithm/bcc_graph.svg",
@@ -222,7 +216,6 @@
     "post/Choi–Jamiołkowski isomorphism.md",
     "post/Quantum Coherence.md",
     "post/Simulation of Quantum System.md",
-    "post/QRAM.md",
     "post/Class of Complexity.md",
     "post/Order Finding.md",
     "post/Concurrence.md",
