@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47fb8c5a37acb8dd",
+        "id": "1a7d926b7c6a0e35",
         "type": "tabs",
         "children": [
           {
-            "id": "f45268d610228a92",
+            "id": "00e1418c841bf4fa",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: graph.json"
+              "title": "Diff: app.json"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 297.5
   },
   "right": {
     "id": "13dae0603296f0dd",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "post/Algorithm/二分图最大匹配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "二分图最大匹配 的反向链接列表"
             }
           },
           {
@@ -139,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/Algorithm/割顶和桥.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "割顶和桥 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -190,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f45268d610228a92",
+  "active": "00e1418c841bf4fa",
   "lastOpenFiles": [
+    "post/Algorithm/Skip List.md",
+    "post/Algorithm/Bi-connected Component.md",
     "post/Algorithm/二分图最大匹配.md",
     "post/Algorithm/割顶和桥.md",
     "post/Algorithm/bcc_tree.svg",
@@ -205,7 +207,6 @@
     "post/images/QRAM.png",
     "post/Pollard Rho.md",
     "post/PostgreSQL.md",
-    "post/Algorithm/Bi-connected Component.md",
     "post/Algorithm/bcc_tree_correct.svg",
     "post/Algorithm/bcc_graph.svg",
     "post/Algorithm/suffix_array_height.drawio.svg",

@@ -10,5 +10,7 @@
     "margin": "2",
     "downscalePercent": 90
   },
-  "readableLineLength": false
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "vimMode": false
 }
