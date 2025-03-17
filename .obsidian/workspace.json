@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7d926b7c6a0e35",
+        "id": "da27f661da64d765",
         "type": "tabs",
         "children": [
           {
-            "id": "00e1418c841bf4fa",
+            "id": "10d4b970e39f1da0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "Linux/Issues.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "Issues"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Linux/Issues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Issues 的大纲"
             }
           },
           {
@@ -190,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00e1418c841bf4fa",
+  "active": "10d4b970e39f1da0",
   "lastOpenFiles": [
+    "Linux",
+    "Linux/Issues.md",
     "post/Algorithm/Skip List.md",
     "post/Algorithm/Bi-connected Component.md",
     "post/Algorithm/二分图最大匹配.md",
