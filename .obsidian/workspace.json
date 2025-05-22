@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44ea08090bcccefc",
+        "id": "1d2704fa8fac8cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "67544c18125e0e34",
+            "id": "baf91b9d1937e82d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "post/Algorithm/Pratt Parsing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Pratt Parsing"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "post/Algorithm/Pratt Parsing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Pratt Parsing 的大纲"
             }
           },
           {
@@ -186,9 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67544c18125e0e34",
+  "active": "021e61f9da115634",
   "lastOpenFiles": [
+    "post/Algorithm/Parser Combinator (Rust Version).md",
+    "post/Algorithm/Parse Expression.md",
+    "post/Algorithm/Pratt Parsing.md",
     "post/Algorithm/Binary Indexed Tree.md",
+    "Linux/Issues.md",
     "post/Algorithm/images/bit_tree_update.png",
     "post/Algorithm/images/bit_tree_query.png",
     "post/Algorithm/Bi-connected Component.md",
@@ -204,7 +213,6 @@
     "post/Algorithm/scc_graph.svg",
     "post/Algorithm/suffix_array_height.svg",
     "post/Algorithm/Suffix Array.md",
-    "Linux/Issues.md",
     "Linux",
     "2025-02-17.md",
     "post/QRAM.md",
@@ -224,8 +232,6 @@
     "post/Jensen's Inequality.md",
     "post/Continued Fractions Algorithm.md",
     "post/FFT.md",
-    "post/DFT.md",
-    "post/creation and annihilation operator.md",
-    "2022-08-02.md"
+    "post/DFT.md"
   ]
 }
